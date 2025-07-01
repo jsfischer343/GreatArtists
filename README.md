@@ -5,5 +5,5 @@
   Image Sources: Wikiart.org<br>
   Languages: HTML, PHP<br>
   Author: jsfische343<br><br>
-  <i>Note: No AI was used in the process of creating this demo</i>
+  <i>Note: All files were written line by line and no AI was used in the process of creating this demo</i>
 </p>
